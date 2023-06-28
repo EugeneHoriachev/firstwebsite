@@ -1,0 +1,34 @@
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 180px;
+    position: absolute;
+    top: -8px;
+    left: -8px;
+}
+
+.gray-block {
+    width: 320px;
+    height: 180px;
+    background-color: gray;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.timestamp {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
